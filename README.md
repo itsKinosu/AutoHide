@@ -1,5 +1,5 @@
-A short python script made to batch hide / unhide directories. Functions in the current working directory
-No pre-requisite required
+A short python script made to batch hide / unhide directories. Functions in the current working directory.
+Project compiled via pyinstaller
 
 To use:
 The program will launch and create hidefile.txt to which you put the directories in lines 2 and below.
