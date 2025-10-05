@@ -1,6 +1,17 @@
-A short python script made to batch hide / unhide directories. Functions in the current working directory.
-Project compiled via pyinstaller
+# Batch Hide/Unhide Directories
 
-To use:
-The program will launch and create hidefile.txt to which you put the directories in lines 2 and below.
-Please note that the directories have to be enclosed in quotation marks but Windows does that automatically when you right click and select "Copy as Path"
+A short Python script made to **batch hide / unhide directories**.  
+Functions in the **current working directory**.  
+Project compiled via **PyInstaller**.
+
+---
+
+## To Use
+
+1. Launch the program.  
+2. The program will create a `hidefile.txt` file.  
+3. Add the directories you want to hide/unhide **starting from line 2**.
+4. Select one of the options the program has given.
+
+> **Note:** The directories have to be **enclosed in quotation marks**, but Windows does this automatically when you right-click a folder and select **"Copy as Path"**.
+
